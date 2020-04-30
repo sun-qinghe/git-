@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3DA52493245AB39A00273DDD /* TestBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA52492245AB39A00273DDD /* TestBtn.swift */; };
+		3DA52495245AB41600273DDD /* TestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA52494245AB41600273DDD /* TestController.swift */; };
 		3DCFC8A024501A44002E8A38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCFC89F24501A44002E8A38 /* AppDelegate.swift */; };
 		3DCFC8A224501A44002E8A38 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCFC8A124501A44002E8A38 /* SceneDelegate.swift */; };
 		3DCFC8A424501A44002E8A38 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCFC8A324501A44002E8A38 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		3DA52492245AB39A00273DDD /* TestBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBtn.swift; sourceTree = "<group>"; };
+		3DA52494245AB41600273DDD /* TestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestController.swift; sourceTree = "<group>"; };
 		3DCFC89C24501A44002E8A38 /* test001.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test001.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCFC89F24501A44002E8A38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DCFC8A124501A44002E8A38 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				3DCFC8A124501A44002E8A38 /* SceneDelegate.swift */,
 				3DCFC8A324501A44002E8A38 /* ViewController.swift */,
 				3DA52492245AB39A00273DDD /* TestBtn.swift */,
+				3DA52494245AB41600273DDD /* TestController.swift */,
 				3DCFC8A524501A44002E8A38 /* Main.storyboard */,
 				3DCFC8A824501A48002E8A38 /* Assets.xcassets */,
 				3DCFC8AA24501A48002E8A38 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DA52495245AB41600273DDD /* TestController.swift in Sources */,
 				3DA52493245AB39A00273DDD /* TestBtn.swift in Sources */,
 				3DCFC8A424501A44002E8A38 /* ViewController.swift in Sources */,
 				3DCFC8A024501A44002E8A38 /* AppDelegate.swift in Sources */,
