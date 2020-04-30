@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         
         print("44444")
         print("55555")
+        print("adadff")
     }
 
     func test() -> () {
