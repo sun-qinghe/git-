@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         test02()
         
         print("333333")
+        print("ajdhahdfhads")
     }
 
     func test() -> () {
