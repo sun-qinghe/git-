@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 //        test()
         test02()
+        
+        print("333333")
     }
 
     func test() -> () {
